@@ -1,0 +1,93 @@
+<resources>
+    <!--    Home-->
+    <string name="app_name">MySelfApss_10121077</string>
+    <string name="nama">Nama : Fauzan Fadhil Moricio</string>
+    <string name="panggilan">Panggilan : Moriss</string>
+    <string name="lahir">Lahir : 28 Februari 2003</string>
+    <string name="deskripsi">Saya Fauzan Fadhil Moricio lahir di Bandung sekarang berumur 21 tahun sedang melakukan pendidikan di UNIKOM bertujuan, untuk menjadi orang yang sukses dan bertanggung jawab terhadap segala sesuatu yang saya mulai.</string>
+    <string name="hobby">Hobi : Menonton,Bermain Game</string>
+    <string name="interest">Interest : Menjadi orang kaya</string>
+    <string name="citacita">Cita-cita : Enterpreneur</string>
+    <string name="makes">Makes : Masakan Ayam</string>
+    <string name="mikes">Mikes : Milo dan Pocari</string>
+
+    <!--    Walkthrougt-->
+    <string name="heading_one">Awesome Profile</string>
+    <string name="heading_two">Ordinary Daily Life</string>
+    <string name="heading_three">Gallery of My Life Memories</string>
+    <string name="heading_fourth">My Music Playlist is a Part of Me</string>
+    <string name="desc_one">Lihatlah dan kunjungi  Profile tentang Moriss yang luar biasa dan berbeda dari yang lain</string>
+    <string name="desc_two">Keseharian biasa yang telah dilakukan oleh Moriss dalam kehidupan sehari-hari untuk menghabiskan waktu dan terdapat beberapa temannya </string>
+    <string name="desc_three">Terdapat beberapa Gallery foto Moriss yang telah dibuat untuk menciptakan kenangan dalam dirinya</string>
+    <string name="desc_fourth">Playlist Musik yang disukai Moriss serta ada bagian dari dirinya yang bisa membawa suasana dan arti yang bermakna tergantung pada musik yang didengarkan</string>
+
+
+    <!--    Daily-->
+    <string name="a">Membersihkan Kamar</string>
+    <string name="aa">Melakukan rutinitas ketika bangun dengan membereskan kamar</string>
+    <string name="b">Berangkat Kuliah</string>
+    <string name="bb">Melakukan kewajiban kuliah sesuai dengan jadwal pembelajaran</string>
+    <string name="c">Bermain Game</string>
+    <string name="cc">Bermain game ketika bosan atau ada yang mengajak</string>
+    <string name="d">Menonton</string>
+    <string name="dd">Melakukan istirahat dengan menonton</string>
+    <string name="e">Tugas Belajar</string>
+    <string name="ee">Mengerjakan tugas kuliah dan belajar</string>
+    <string name="f">Olahraga </string>
+    <string name="ff">Melakukan olahraga dengan bermain Sepak bola </string>
+    <string name="g">Memasak</string>
+    <string name="gg">Memasak ketika tidak ada makanan dirumah</string>
+    <string name="h">Mencuci</string>
+    <string name="hh">Mencuci pakaian sendiri jika menumpuk</string>
+
+    <!--    Friend LIst Horizontal-->
+    <string name="adrian">Adrian Maulana Rizqi</string>
+    <string name="wildan">Wildan Permana</string>
+    <string name="nasza">Nasza Dwi Prayoga</string>
+    <string name="faliq">Faliq Zuldan Akbar</string>
+
+
+    <!--    Gallery-->
+    <string name="j1">Wayang Windu</string>
+    <string name="k1">Membuat Kenangan SMA</string>
+    <string name="l1">Foto Bersama Setelah lulus SMA</string>
+    <string name="m1">Masa Kecil Besama Saudara</string>
+    <string name="p1">Beristirahat Setelah mendaki</string>
+    <string name="q1">Camping di Artapela</string>
+    <string name="r1">Beratnya matahari</string>
+    <string name="s1">Bermain dengan Alam</string>
+    <string name="t1">Puncak Gunung Putri Lembang</string>
+    <string name="u1">Gaya Biar Keren</string>
+    <string name="v1">SSB Sidolig</string>
+    <string name="w1">Motor Classic DGR</string>
+    <string name="x1">Kawah Tangkuban Perahu</string>
+    <string name="y1">Trail Offroad</string>
+
+    <!--    Musik-->
+
+    <string name="musik1">Back To Black</string>
+    <string name="link1">Amy Winehouse.   <a href="https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w?si=d0145fb4a93f4da0">Klik Here</a></string>
+    <string name="musik2">Mind Over Matter</string>
+    <string name="link2">Young The Giant.   <a href="https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ?si=334f5446f8f94876">Klik Here</a></string>
+    <string name="musik3">Danger Line</string>
+    <string name="link3">Avenged Sevenfold.   <a href="https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk?si=82448cd798f14f60">Klik Here</a></string>
+    <string name="musik4">Sunnny (晴る haru)</string>
+    <string name="link4">Yorushika.   <a href="https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M?si=5eeb1faf20f947e3">Klik Here</a></string>
+    <string name="musik6">A Cruel Angels Thesis</string>
+    <string name="link6">Miura jam.   <a href="https://open.spotify.com/track/14otco5CB29ffmhCEwjpHu?si=c7df1a39b2374d59">Klik Here</a></string>
+    <string name="musik5">Spiral</string>
+    <string name="link5">Longman.   <a href="https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE?si=e7e70c9cf9f144f4">Klik Here</a></string>
+    <string name="musik7">Doin Time</string>
+    <string name="link7">Lana Del Rey.   <a href="https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX?si=eb9dc3117ac04f5a">Klik Here</a></string>
+    <string name="musik8">Raise</string>
+    <string name="link8">Chilli Beans.   <a href="https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU?si=47ab6a5d5d954dd4">Klik Here</a></string>
+
+    <!--    Profile-->
+    <string name="me">Saya Fauzan fadhil Moricio dipanggil Moriss atau io, lahir di Bandung 28 Februari 2003. Saya merasa diri saya introvert dan mempunyai kepribadian yang baik serta unik.</string>
+    <string name="nomor">Nomor/Wa : 087760678276</string>
+    <string name="email">Email : fauzanfadhil28@gmail.com</string>
+    <string name="instagram">Media Sosial : <a href="https://www.instagram.com/moricioof?igsh=MTg1MjdwNnRjOGxzZA==">Instagram</a></string>
+    <string name="alamat">Alamat : Jl.Lamping Situ</string>
+    <string name="Maps">Maps : <a href="https://maps.app.goo.gl/NwLvK7BwgcpZ6yPB8">Klik Maps</a></string>
+    <string name="aboutme">Saya Moriss anak kedua dari 2 bersaudara. Saya suka sekali menonton dengan genre action, fantasy, isekai. Saya juga sering mengisi waktu dengan bermain game atau membaca komik apapun mau itu indo, jepang, china dan korea ketika bosan dan zodiak saya pisces.  </string>
+</resources>
